@@ -1,6 +1,4 @@
-defmodule AffineCipher do
-  # passar esse arquivo para .exs
-  
+defmodule AffineCipher do  
   @alphabet ?a..?z
 
   @alphabet_length Enum.count(@alphabet)
